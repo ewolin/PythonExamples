@@ -1,2 +1,2 @@
 # PythonExamples
-Useful short example scripts
+Random collection of possibly-useful short example scripts
